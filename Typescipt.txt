@@ -1,0 +1,12 @@
+start tsc filename.type 
+auto set tsc -w
+
+if select file then oviously change 
+outDir: output 
+rootDir: ./src
+
+If you wanna use module then 
+config your module : es2015 and target : es6
+
+export : export class 
+import : import {classname} from 'path'
